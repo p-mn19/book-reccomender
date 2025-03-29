@@ -1,1 +1,1 @@
-# semantic-book-reccomender
+# book-reccomender
